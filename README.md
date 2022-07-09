@@ -18,6 +18,9 @@
 ## 設計書
 <...>
 
+## 機能一覧
+https://docs.google.com/spreadsheets/d/1CJKSwat1P_e6atResmgvGWaJPH4EBoIChSiR-ye_PVE/edit?usp=sharing
+
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
